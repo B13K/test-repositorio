@@ -3,3 +3,7 @@ function Saludar(){
 }
 
 Saludar();
+
+function Sumar(a,b){
+    return a+b;
+}
